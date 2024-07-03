@@ -2,11 +2,20 @@
 
 ## Check your skills and answer the questions
 
+![Quizzler Stats](https://github-readme-stats.vercel.app/api?username=tuo_nome_utente&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuo_nome_utente&layout=compact&theme=radical)
+
 ## App UI
 
 ![Finished App](Quizzler.gif)
 
 A new Flutter project.
+
+## Badges
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+![contributors](https://img.shields.io/github/contributors/tuo_nome_utente/quizzler)
+![codecov](https://img.shields.io/codecov/c/github/tuo_nome_utente/quizzler)
+![issues](https://img.shields.io/github/issues/tuo_nome_utente/quizzler)
 
 ## Getting Started
 
@@ -20,4 +29,4 @@ For help getting started with Flutter, view our [online documentation](https://f
 
 ## Repository Link
 
-You can find the source code for this project on GitHub: [Quizzler GitHub Repository](https://github.com/yourusername/quizzler.git)
+You can find the source code for this project on GitHub: [Quizzler GitHub Repository](https://github.com/tuo_nome_utente/quizzler.git)
