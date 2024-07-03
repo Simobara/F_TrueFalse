@@ -22,18 +22,20 @@
   ```sh
   Flutter SDK
   Dart SDK
+  ```
 
 ## Installation
-  ```sh
+```sh
   git clone https://github.com/Simobara/F_TrueFalse.git
   cd F_TrueFalse
   flutter pub get
   flutter run
+```
 
 ## Dependencies
+```sh
 - Dart SDK 3.4.3
 - Flutter SDK 3.22.2
-  ```sh
   - cupertino_icons 1.0.8
   - flutter 0.0.0
       - characters 1.3.0
@@ -60,9 +62,10 @@
       - test_api 0.7.0
       - vm_service 14.2.1
   - rflutter_alert 2.0.7
+```
 
 
-## License
+## Link
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
