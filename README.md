@@ -1,3 +1,4 @@
+<a name="top"></a>
 # Quizzler - A Quiz App :check : :close:
 
 [//]: # (## Check your skills and answer the questions)
@@ -38,5 +39,5 @@ You can find the source code for this project on GitHub: [Quizzler GitHub Reposi
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) - [click here](https://www.linkedin.com/in/siba2410)
 - ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github) - [click here](https://github.com/Simobara)
 
-## All set! Happy coding :)
-[Back to Top](#)
+
+[Back to Top](##top)
