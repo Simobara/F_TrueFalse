@@ -9,11 +9,11 @@
 ## Badges
 ![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
-![Contributors](https://img.shields.io/badge/contributors-267-brightgreen)
-![Coverage](https://img.shields.io/badge/codecov-98%25-brightgreen)
-![Issues](https://img.shields.io/badge/issues-114%20open-blue)
-![Pull Requests](https://img.shields.io/badge/pull%20requests-171%20open-blue)
-![OpenSSF Scorecard](https://img.shields.io/badge/openssf%20scorecard-8-brightgreen)
+![Contributors](https://img.shields.io/badge/Contributors-267-brightgreen)
+![Coverage](https://img.shields.io/badge/Codecov-98%25-brightgreen)
+![Issues](https://img.shields.io/badge/Issues-114%20open-blue)
+![Pull Requests](https://img.shields.io/badge/PullRequests-171%20open-blue)
+![OpenSSF Scorecard](https://img.shields.io/badge/OpenssfScorecard-8-brightgreen)
 
 
 ## App UI
