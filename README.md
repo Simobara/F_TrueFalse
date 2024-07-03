@@ -36,7 +36,7 @@ You can find the source code for this project on GitHub: [Quizzler GitHub Reposi
 
 - ![Views](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social) - [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) - [click here](https://www.linkedin.com/in/siba2410)
-  - **Follow me on GitHub**: --- ![GitHub](https://img.shields.io/github/followers/Simobara?label=Follow&style=social) - [click here](https://github.com/Simobara)
+- ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github) - [click here](https://github.com/Simobara)
 
 ## All set! Happy coding :)
 [Back to Top](#)
