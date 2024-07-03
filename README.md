@@ -17,7 +17,7 @@
 ## Demo
 ![Finished App](Quizzler.gif)
 
-
+---
 ## Getting Started
 
 ## Prerequisites
