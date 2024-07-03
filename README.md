@@ -2,16 +2,14 @@
 # Quizzler - A Quiz App
 
 ## Badges
-![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
+![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![Contributors](https://img.shields.io/badge/Contributors-267-brightgreen)
 ![Codecov](https://img.shields.io/badge/CodeCov-88%25-brightgreen)
 ![Issues](https://img.shields.io/badge/Issues-114%20open-blue)
 ![Pull Requests](https://img.shields.io/badge/PullRequests-171%20open-blue)
 ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=github)
 ![License](https://img.shields.io/badge/License-MIT-blue)
-![Last Commit](https://img.shields.io/badge/Last_Commit-July_2024-blue)
-![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)
 ![Platform](https://img.shields.io/badge/Platform-Flutter-blue)
 ![Stars](https://img.shields.io/github/stars/Simobara/F_TrueFalse?style=social)
 ![Forks](https://img.shields.io/github/forks/Simobara/F_TrueFalse?style=social)
