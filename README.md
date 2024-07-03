@@ -1,6 +1,4 @@
-
 <a name="top"></a>
-
 # Quizzler - A Quiz App
 
 [//]: # (## Check your skills and answer the questions)
@@ -9,6 +7,7 @@
 
 
 ## Badges
+![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
 ![Contributors](https://img.shields.io/badge/contributors-267-brightgreen)
 ![Coverage](https://img.shields.io/badge/codecov-98%25-brightgreen)
@@ -41,5 +40,5 @@ You can find the source code for this project on GitHub: [Quizzler GitHub Reposi
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) - [click here](https://www.linkedin.com/in/siba2410)
 - ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github) - [click here](https://github.com/Simobara)
 
-
-[⤴️](#top)
+##
+[⤴️Back to top](#top)
