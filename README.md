@@ -10,7 +10,7 @@
 ![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
 ![Contributors](https://img.shields.io/badge/Contributors-267-brightgreen)
-![Coverage](https://img.shields.io/badge/Codecov-98%25-brightgreen)
+![Coverage](https://img.shields.io/badge/CodeCov-98%25-brightgreen)
 ![Issues](https://img.shields.io/badge/Issues-114%20open-blue)
 ![Pull Requests](https://img.shields.io/badge/PullRequests-171%20open-blue)
 ![OpenSSF Scorecard](https://img.shields.io/badge/OpenssfScorecard-8-brightgreen)
