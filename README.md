@@ -12,19 +12,16 @@
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![Last Commit](https://img.shields.io/badge/Last_Commit-July_2024-blue)
+
 ![Stars](https://img.shields.io/github/stars/Simobara/F_TrueFalse?style=social)
 ![Forks](https://img.shields.io/github/forks/Simobara/F_TrueFalse?style=social)
 ![Watchers](https://img.shields.io/github/watchers/Simobara/F_TrueFalse?style=social)
-![Issues](https://img.shields.io/github/issues/Simobara/F_TrueFalse)
-![Closed Issues](https://img.shields.io/github/issues-closed/Simobara/F_TrueFalse)
-![Open PRs](https://img.shields.io/github/issues-pr/Simobara/F_TrueFalse)
-![Closed PRs](https://img.shields.io/github/issues-pr-closed/Simobara/F_TrueFalse)
+
 ![Downloads](https://img.shields.io/github/downloads/Simobara/F_TrueFalse/total)
-![Release Date](https://img.shields.io/github/release-date/Simobara/F_TrueFalse)
-![Activity](https://img.shields.io/github/commit-activity/y/Simobara/F_TrueFalse)
+
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)
 ![Platform](https://img.shields.io/badge/Platform-Flutter-blue)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Simobara/F_TrueFalse)
+
 
 
 ## Demo
