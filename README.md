@@ -11,9 +11,9 @@
 ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=github)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![Platform](https://img.shields.io/badge/Platform-Flutter-blue)
-![Stars](https://img.shields.io/github/stars/Simobara/F_TrueFalse?style=social)
-![Forks](https://img.shields.io/github/forks/Simobara/F_TrueFalse?style=social)
-![Watchers](https://img.shields.io/github/watchers/Simobara/F_TrueFalse?style=social)
+![Stars](https://img.shields.io/github/star-black/Simobara/F_TrueFalse?style=social)
+![Forks](https://img.shields.io/github/forks-black/Simobara/F_TrueFalse?style=social)
+![Watchers](https://img.shields.io/github/watchers-black/Simobara/F_TrueFalse?style=social)
 
 
 ## Demo
