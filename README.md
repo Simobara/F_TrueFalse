@@ -2,7 +2,6 @@
 # Quizzler - A Quiz App
 
 ## Badges
-```sh
 ![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
 ![Contributors](https://img.shields.io/badge/Contributors-267-brightgreen)
@@ -26,7 +25,7 @@
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green)
 ![Platform](https://img.shields.io/badge/Platform-Flutter-blue)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/Simobara/F_TrueFalse)
-```
+
 
 ## Demo
 ![Finished App](Quizzler.gif)
