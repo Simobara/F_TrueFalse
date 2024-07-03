@@ -1,7 +1,7 @@
 
 <a name="top"></a>
 
-# Quizzler - A Quiz App :check : :close:
+# Quizzler - A Quiz App
 
 [//]: # (## Check your skills and answer the questions)
 [//]: # (![Quizzler Stats]&#40;https://github-readme-stats.vercel.app/api?username=Simobara&show_icons=true&theme=radical&#41;)
