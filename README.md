@@ -75,7 +75,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) - [click here](https://www.linkedin.com/in/siba2410)
 - ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github) - [click here](https://github.com/Simobara)
-- ![YouTube](https://img.shields.io/youtube/youtube/dQw4w9WgXcQ?style=social) - [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- ![YouTube](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social) - [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ##
 [⤴️ top](#top)
