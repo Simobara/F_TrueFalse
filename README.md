@@ -1,21 +1,24 @@
 # Quizzler - A Quiz App :star: :fork_and_knife: :heart: :warning:
 
-## Check your skills and answer the questions
+[//]: # (## Check your skills and answer the questions)
 
-![Quizzler Stats](https://github-readme-stats.vercel.app/api?username=Simobara&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simobara&layout=compact&theme=radical)
+[//]: # (![Quizzler Stats]&#40;https://github-readme-stats.vercel.app/api?username=Simobara&show_icons=true&theme=radical&#41;)
+
+[//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Simobara&layout=compact&theme=radical&#41;)
+
+## Badges
+![Test](https://img.shields.io/badge/Test-passing-brightgreen)
+![Contributors](https://img.shields.io/badge/contributors-267-brightgreen)
+![Codecov](https://img.shields.io/badge/codecov-98%25-brightgreen)
+![Issues](https://img.shields.io/badge/issues-114%20open-blue)
+![Pull Requests](https://img.shields.io/badge/pull%20requests-171%20open-blue)
+![OpenSSF Scorecard](https://img.shields.io/badge/openssf%20scorecard-8-brightgreen)
 
 ## App UI
 
 ![Finished App](Quizzler.gif)
 
 A new Flutter project.
-
-## Badges
-![build](https://img.shields.io/badge/build-passing-brightgreen)
-![contributors](https://img.shields.io/github/contributors/Simobara/quizzler)
-![codecov](https://img.shields.io/codecov/c/github/Simobara/quizzler)
-![issues](https://img.shields.io/github/issues/Simobara/quizzler)
 
 ## Getting Started
 
