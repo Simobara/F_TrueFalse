@@ -33,10 +33,10 @@ You can find the source code for this project on GitHub: [Quizzler GitHub Reposi
 
 
 ## Link
-- ![Views](https://img.shields.io/youtube/views/ImSjJwzqAss?style=social) - [click here](https://www.youtube.com/watch?v=ImSjJwzqAss)
-- **Youtube project video Working Demo + step by step execution link (old version)**: 
 
+- ![Views](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social) - [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) - [click here](https://www.linkedin.com/in/siba2410)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - [click here](https://www.linkedin.com/in/siba2410)
 
----
 ## All set! Happy coding :)
 [Back to Top](#)
