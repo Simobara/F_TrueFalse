@@ -6,12 +6,9 @@
 ![Build](https://img.shields.io/badge/Build-passing-brightgreen)
 ![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=github)
 
-![Contributors](https://img.shields.io/badge/Contributors-267-brightgreen)
-![Codecov](https://img.shields.io/badge/CodeCov-88%25-brightgreen)
-![Issues](https://img.shields.io/badge/Issues-114%20open-blue)
-![Pull Requests](https://img.shields.io/badge/PullRequests-171%20open-blue)
-
-![License](https://img.shields.io/badge/License-MIT-blue)
+![Contrib](https://img.shields.io/badge/Contributors-267-blue)
+![Codecov](https://img.shields.io/badge/CodeCov-88%25-blue)
+![PullReq](https://img.shields.io/badge/PullRequests-171%20open-blue)
 
 ![Stars](https://img.shields.io/github/stars/Simobara/F_TrueFalse?style=social)
 ![Forks](https://img.shields.io/github/forks/Simobara/F_TrueFalse?style=social)
