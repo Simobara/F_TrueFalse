@@ -1,10 +1,9 @@
-# Quizzler - A Quiz App :star: :fork_and_knife: :heart: :warning:
+# Quizzler - A Quiz App :check : :close:
 
 [//]: # (## Check your skills and answer the questions)
-
 [//]: # (![Quizzler Stats]&#40;https://github-readme-stats.vercel.app/api?username=Simobara&show_icons=true&theme=radical&#41;)
-
 [//]: # (![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Simobara&layout=compact&theme=radical&#41;)
+
 
 ## Badges
 ![Test](https://img.shields.io/badge/Test-passing-brightgreen)
@@ -14,14 +13,12 @@
 ![Pull Requests](https://img.shields.io/badge/pull%20requests-171%20open-blue)
 ![OpenSSF Scorecard](https://img.shields.io/badge/openssf%20scorecard-8-brightgreen)
 
-## App UI
 
+## App UI
 ![Finished App](Quizzler.gif)
 
-A new Flutter project.
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
@@ -30,6 +27,16 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter, view our [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
 
-## Repository Link
 
-You can find the source code for this project on GitHub: [Quizzler GitHub Repository](https://github.com/Simobara/quizzler.git)
+## Repository Link
+You can find the source code for this project on GitHub: [Quizzler GitHub Repository](https://github.com/Simobara/F_TrueFalse.git)
+
+
+## Link
+- ![Views](https://img.shields.io/youtube/views/ImSjJwzqAss?style=social) - [click here](https://www.youtube.com/watch?v=ImSjJwzqAss)
+- **Youtube project video Working Demo + step by step execution link (old version)**: 
+
+
+---
+## All set! Happy coding :)
+[Back to Top](#)
